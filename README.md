@@ -14,26 +14,17 @@ Hi, I’m Srishti Kapoor 👩‍💻<br>I write code, break it, fix it, and call
   <img src="https://streak-stats.demolab.com?user=srishtikapoor0240&theme=radical" />
 </p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srishtikapoor0240&theme=radical&no-frame=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=srishtikapoor0240&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srishtikapoor0240&theme=radical&no-frame=true&margin-w=10" />
+</p>
+## 🚀 Featured Projects
 
+- 🔗 **Hitch** – Ride-sharing app built using Node.js, Express, and MySQL  
+- ♻️ **Plastisure** – Sustainable eco-friendly plastic alternative solution  
+- 🧠 **LeetCode Practice** – Consistently solving DSA problems to strengthen problem-solving skills  
 ---
-[![](https://visitcount.itsvg.in/api?id=srishtikapoor0240&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **srishtikapoor0240/srishtikapoor0240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
