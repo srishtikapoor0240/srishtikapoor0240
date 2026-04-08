@@ -8,13 +8,13 @@ Hi, I’m Srishti Kapoor 👩‍💻<br>I write code, break it, fix it, and call
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=srishtikapoor0240&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=srishtikapoor0240&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikapoor0240&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srishtikapoor0240&theme=radical" />
+</p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=srishtikapoor0240&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=srishtikapoor0240&theme=radical&no-frame=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=srishtikapoor0240&limit=5&theme=dark&combine_all_yearly_contributions=true)
